@@ -1,0 +1,11 @@
+{
+    "botOwnerName": "YourName",
+    "ownerNumber": "YourNumber",
+    "adminNumbers": ["ADMIN_1_Number", "ADMIN_2_NUMBER"],
+    "prefix": "!",
+    "botName": "BotName",
+    "language": "en",
+    "geminiApiKey": "na_T51VHMGBMZJO7S2B",
+    "nexaloApiKey": "na_T51VHMGBMZJO7S2B"
+}
+
