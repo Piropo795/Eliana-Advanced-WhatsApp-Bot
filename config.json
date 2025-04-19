@@ -1,8 +1,8 @@
 {
     "__comment": "In the number 88 is your country code then use @c.us same in owner and admins",	
-    "botOwnerName": "YourName",
-    "ownerNumber": "88YourNumber@c.us",
-    "adminNumbers": ["ADMIN_1_Number", "ADMIN_2_NUMBER"],
+    "botOwnerName": "MM90",
+    "ownerNumber": "5356857364@c.us",
+    "adminNumbers": ["5356857364", "56857364"],
     "prefix": "!",
     "botName": "BotName",
     "language": "en",
